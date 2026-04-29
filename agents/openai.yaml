@@ -1,0 +1,7 @@
+interface:
+  display_name: "Doc2Web"
+  short_description: "Turn large Word docs into polished websites"
+  default_prompt: "Use $doc2web to convert this Word document into a complete, polished static website."
+
+policy:
+  allow_implicit_invocation: true
